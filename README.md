@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...C language
 - 💞️ I’m looking to collaborate on ...Diffrent projects
-- 📫 How to reach me ...tech.master@gmail.com
+- 📫 How to reach me ...tech.master3495@gmail.com
 
 <!---
 Abdullah22588/Abdullah22588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

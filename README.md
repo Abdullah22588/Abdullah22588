@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdullah Khan 👋</h1>
-<h3 align="center">A Passionate Developer | AI + Web | MLSA (Beta) | CS Student</h3>
+<h3 align="center">A Passionate Developer | AI + Web | MLSA (Gold) | CS Student</h3>
 
 ---
 

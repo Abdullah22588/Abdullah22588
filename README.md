@@ -65,9 +65,8 @@
 ---
 
 ## 📂 Featured Projects
-*(Add your project links later)*
 
-- 🌧️ **Rainfall Prediction Model for Sindh (AI/ML)**  
+- 🌧️ **Rainfall Prediction Model(AI/ML)**  
 - 🎓 **Scholarship + AI Portal (In Progress)**  
 - 🌐 **Full Stack Web Projects (React, Node, HTML/CSS)**  
 - ⚙️ **Python Automation Tools**  

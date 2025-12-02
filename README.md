@@ -56,7 +56,7 @@
 ---
 
 ## 🏆 Achievements & Programs
-- 🎖️ **Beta Microsoft Learn Student Ambassador**  
+- 🎖️ **Gold Microsoft Learn Student Ambassador**  
 - 📜 **Aspire Leaders Program Alumnus**  
 - 🎤 Organized multiple tech events at university  
 - 📝 Certifications (MLSA, courses, programs)  

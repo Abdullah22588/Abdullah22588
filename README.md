@@ -11,7 +11,7 @@
 - 💼 **Gold Microsoft Learn Student Ambassador (MLSA)**  
 - 🧠 Revising full-stack development + AI integration  
 - 🌱 Learning: Responsive Web Design, ML Models, Advanced JavaScript  
-- 💡 Goal: Build a platform **better than YouTube**, inshallah  
+- 💡 Goal: Build a platform **to serve community**, inshallah  
 - 🕊️ Values: Hard work, sincerity, faith, and personal growth  
 
 ---

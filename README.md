@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Abdullah Khan 👋</h1>
 ---
+
 ## 🚀 About Me
 - 🎓 Computer Science Student (Third Year)  
 - 🤖 Interested in **Computer Vision, AI, Machine Learning, Web Development**  
@@ -47,6 +48,7 @@
 
 </p>
 ---
+
 ## 🏆 Achievements & Programs
 - 🎖️ **Gold Microsoft Learn Student Ambassador**  
 - 📜 **Aspire Leaders Program Alumnus**  

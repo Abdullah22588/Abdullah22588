@@ -1,29 +1,23 @@
-<h1 align="center">Hi, I'm Abdullah Khan 👋</h1>
-<h3 align="center">A Passionate Developer | AI + Web | MLSA (Gold) | CS Student</h3>
-
+<h1 align="left">Hi, I'm Abdullah Khan 👋</h1>
 ---
-
 ## 🚀 About Me
 - 🎓 Computer Science Student (Third Year)  
-- 🤖 Interested in **AI, Machine Learning, Web Development**  
+- 🤖 Interested in **Computer Vision, AI, Machine Learning, Web Development**  
 - 📚 Researching **AI Applications**  
 - 🌍 Dream: To pursue a **Master’s abroad** on scholarship  
 - 💼 **Gold Microsoft Learn Student Ambassador (MLSA)**  
-- 🧠 Revising full-stack development + AI integration  
-- 🌱 Learning: Responsive Web Design, ML Models, Advanced JavaScript  
-- 💡 Goal: Build a platform **to serve community**, inshallah  
+- 🧠 Doing full-stack development + AI integration  
+- 🌱 Learning: Responsive Web Design, ML Models, Advanced JavaScript    
 - 🕊️ Values: Hard work, sincerity, faith, and personal growth  
-
 ---
-
 ## 🔥 Skills
 
 ### 🧑‍💻 Technical Skills
-- **Languages:** Python, JavaScript, HTML, CSS  
+- **Languages:** Python, JavaScript, HTML, CSS
 - **Web Development:** React.js, Node.js, Express.js, REST APIs  
 - **Databases:** MySQL, MongoDB  
-- **AI/ML:** Data cleaning, preprocessing, scikit-learn basics  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **AI/ML:** Data cleaning, preprocessing, scikit-learn basics, programming skills (Python), strong mathematical and statistical foundations
+- **Tools:** Git, GitHub, VS Code
 - **Other:** Responsive UI, API Integration, Event-driven development  
 
 ---
@@ -52,9 +46,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
-
 ---
-
 ## 🏆 Achievements & Programs
 - 🎖️ **Gold Microsoft Learn Student Ambassador**  
 - 📜 **Aspire Leaders Program Alumnus**  
@@ -62,32 +54,11 @@
 - 📝 Certifications (MLSA, courses, programs)  
 - 🌐 Running a tech society at university  
 
----
-
-## 📂 Featured Projects
-
-- 🌧️ **Rainfall Prediction Model(AI/ML)**  
-- 🎓 **Scholarship + AI Portal (In Progress)**  
-- 🌐 **Full Stack Web Projects (React, Node, HTML/CSS)**  
-- ⚙️ **Python Automation Tools**  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah22588&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah22588&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 📧 **Email:** abdullah.malokhani@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/abdullah-khan-49111826b/  
 
 ---
-
 ⭐ **Thank you for visiting!**  
 *May Allah bless our journey of knowledge and success — Ameen.*  
